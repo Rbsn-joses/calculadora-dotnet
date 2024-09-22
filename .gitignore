@@ -1,0 +1,6 @@
+.vscode
+Calculadora/bin/**
+Calculadora/obj/**
+Calculadora.Tests/b*
+Calculadora.Tests/o*
+Calculadora.Tests/*.json
